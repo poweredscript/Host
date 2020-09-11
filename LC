@@ -5,8 +5,8 @@
 		"version":"1.0.0.0",
 		"licenseDetail":
 		{		    
-		   "email":"tablesmit@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ],
-		   "email":"tablesmit2@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ]		    
+		   "email":"tablesmit@gmail.com", "license":[ "7c3cd587985f65edX", "456", "789" ],
+		   "email":"tablesmit2@gmail.com", "license":[ "567", "456", "789" ]		    
 		}
 	},
    {
@@ -14,8 +14,8 @@
 		"version":"1.0.0.0",
 		"licenseDetail":
 		{		    
-		   "email":"tablesmit@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ],
-		   "email":"tablesmit2@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ]		    
+		   "email":"tablesmit3@gmail.com", "license":[ "123", "456", "789" ],
+		   "email":"tablesmit4@gmail.com", "license":[ "234", "456", "789" ]		    
 		}
 	}
 ]
