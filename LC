@@ -4,19 +4,18 @@
 		"name":"Advanced Connection",
 		"version":"1.0.0.0",
 		"licenseDetail":
-		{
-		    "email":"tablesmit@gmail.com",
-		    "license":[ "7c3cd587985f65ed", "456", "789" ]
+		{		    
+		   "email":"tablesmit@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ],
+		   "email":"tablesmit2@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ]		    
 		}
 	},
-	{
-		"name":"Console Test",	
+   {
+		"name":"Console Test",
 		"version":"1.0.0.0",
 		"licenseDetail":
-		{
-		    "email":"tablesmit@gmail.com",
-		    "license":[ "7c3cd587985f65ed", "456", "789" ]
+		{		    
+		   "email":"tablesmit@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ],
+		   "email":"tablesmit2@gmail.com", "license":[ "7c3cd587985f65ed", "456", "789" ]		    
 		}
-		
 	}
 ]
