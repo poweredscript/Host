@@ -1,1 +1,24 @@
 
+ [
+
+	{
+
+		"name":"Advanced Connection",
+
+		"version":"1.0.0.0",
+
+		"license":[ "123", "456", "789" ]
+
+	},
+
+	{
+
+		"name":"Console Test",	
+
+		"version":"1.0.0.0",
+
+		"license":[ "7c3cd587985f65ed", "456", "789" ]
+
+	}
+
+]
